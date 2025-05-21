@@ -1,2 +1,4 @@
-# 자료위치
-- 서울시 공공자전거 대여이력 정보: https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do
+실습 결과
+
+![image](https://github.com/user-attachments/assets/398e6cf9-a64e-4af5-a8a4-4b33778635b6)
+
